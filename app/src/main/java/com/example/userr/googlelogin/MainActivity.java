@@ -94,7 +94,7 @@ public class MainActivity extends Activity implements OnClickListener,
             mGoogleApiClient.disconnect();
         }
     }
-        //lala
+        //lalaf
     /**
      * Method to resolve any signin errors
      * */
